@@ -12,6 +12,6 @@ Hello! I am Abdelkebir Ghalia, a 3rd year Software Engineering student with a pa
 
 ## Contact Me
 - 📧 Email: [abdghalia04@gmail.com](mailto:abdghalia04@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zeineb-nouiri)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ghalia-abdelkebir)
 
 Feel free to reach out to me for any collaboration or discussion related to software development and gaming.
